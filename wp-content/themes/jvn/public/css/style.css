@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic&amp;subset=latin,vietnamese");
-@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+@import url("../../../../../../maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
 /*!
  * Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -253,8 +253,8 @@ th {
     border: 1px solid #ddd !important; } }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("http://103.234.36.67/wp-content/themes/jvn/public/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
+  src: url("../fonts/bootstrap/glyphicons-halflings-regular.html");
+  src: url("../fonts/bootstrap/glyphicons-halflings-regulard41d.html?#iefix") format("embedded-opentype"), url("../fonts/bootstrap/glyphicons-halflings-regular-2.html") format("woff2"), url("../fonts/bootstrap/glyphicons-halflings-regular-3.html") format("woff"), url("../fonts/bootstrap/glyphicons-halflings-regular-4.html") format("truetype"), url("../fonts/bootstrap/glyphicons-halflings-regular-5.html#glyphicons_halflingsregular") format("svg"); }
 .glyphicon {
   position: relative;
   top: 1px;
@@ -2646,7 +2646,7 @@ a {
   margin-left: 80px; }
 
 .top-menu {
-  background-image: url("http://103.234.36.67/wp-content/themes/jvn/public/img/top-bg.png");
+  background-image: url("../img/top-bg.png");
   background-size: cover;
   height: 40px;
   color: #fff; }
@@ -2794,7 +2794,7 @@ a {
     margin-top: 45px; } }
 footer {
   background-color: #005A96;
-  background-image: url(http://103.234.36.67/wp-content/themes/jvn/public/img/footer-bg.jpg);
+  background-image: url(../img/footer-bg.jpg);
   background-position: center bottom;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2908,7 +2908,7 @@ body.admin-bar .search-modal .close {
     background-position: center;
     height: 445px; }
   .home-banner .desc {
-    background-image: url("http://103.234.36.67/wp-content/themes/jvn/public/img/banner-bg.png");
+    background-image: url("../img/banner-bg.png");
     background-size: cover;
     color: #fff;
     height: 445px; }
@@ -3165,7 +3165,7 @@ body.admin-bar .search-modal .close {
   margin: 0;
   height: 220px;
   padding-top: 50px;
-  background-image: url("http://103.234.36.67/wp-content/themes/jvn/public/img/page-bg.jpg");
+  background-image: url("../img/page-bg.jpg");
   background-size: cover;
   background-repeat: no-repeat; }
   .page-header h2 {

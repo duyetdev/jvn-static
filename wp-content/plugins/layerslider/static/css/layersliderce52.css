@@ -266,11 +266,11 @@
 	height: 100% !important;
 	left: 0 !important;
 	top: 0 !important;
-	background-image: url(http://103.234.36.67/wp-content/plugins/layerslider/static/css/blank.gif);
+	background-image: url(blank.gif);
 }
 
 .ls-slide > a > * {
-	background-image: url(http://103.234.36.67/wp-content/plugins/layerslider/static/css/blank.gif);
+	background-image: url(blank.gif);
 }
 
 
